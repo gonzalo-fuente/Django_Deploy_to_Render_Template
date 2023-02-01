@@ -1,0 +1,5 @@
+django>=3.2,<3.3
+dj-database-url
+psycopg2-binary
+whitenoise
+gunicorn
